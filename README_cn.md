@@ -35,7 +35,6 @@
     - [AI Code编辑器](#ai-code编辑器)
     - [安全](#安全)
     - [其它](#其它)
-    - [Star History](#star-history)
 
 ## 项目列表
 

@@ -982,6 +982,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> <a href="https://github.com/littleCareless/dish-ai-commit"> Dish AI Commit </a> </td>
         <td> An AI-powered VS Code extension that automatically generates standardized Git/SVN commit messages, PR summaries, and weekly reports using DeepSeek and other AI providers. </td>
     </tr>
+    <tr>
+        <td> <img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/jkvw7r03doo05xlfzdmytznxwhdv?sp=r&sv=2024-05-04&se=2026-05-29T14%3A11%3A21Z&sr=b&rscd=inline%3B+filename%3D%22copilot+b_w.png%22%3B+filename*%3DUTF-8%27%27copilot%2520b_w.png&rsct=image%2Fpng&sig=S3f5g8IZ6mi68cT%2BJQkL3O9E2kFmffU9MVh2Q1YjPyE%3D" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/copilot-byok/README.md"> VSCode BYOK </a> </td>
+        <td> Bring Your Own Language Model API Key (BYOK) is a new feature introduced in VSCode 1.122 that allows users to use third-party language model provider API keys within GitHub Copilot. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>

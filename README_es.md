@@ -761,6 +761,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> Una extensión de código abierto para VS Code para usar proveedores de inferencia compatibles con OpenAI en GitHub Copilot. </td>
     </tr>
+    <tr>
+        <td> <img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/jkvw7r03doo05xlfzdmytznxwhdv?sp=r&sv=2024-05-04&se=2026-05-29T14%3A11%3A21Z&sr=b&rscd=inline%3B+filename%3D%22copilot+b_w.png%22%3B+filename*%3DUTF-8%27%27copilot%2520b_w.png&rsct=image%2Fpng&sig=S3f5g8IZ6mi68cT%2BJQkL3O9E2kFmffU9MVh2Q1YjPyE%3D" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/copilot-byok/README.md"> VSCode BYOK </a> </td>
+        <td> Bring Your Own Language Model API Key (BYOK) es una nueva función introducida en VSCode 1.122 que permite a los usuarios usar claves API de proveedores de modelos de lenguaje de terceros en GitHub Copilot. </td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>

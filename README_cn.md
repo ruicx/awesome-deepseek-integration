@@ -35,6 +35,7 @@
     - [AI Code编辑器](#ai-code编辑器)
     - [安全](#安全)
     - [其它](#其它)
+    - [Star History](#star-history)
 
 ## 项目列表
 
@@ -829,6 +830,11 @@
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README_cn.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 开源的 VS Code 扩展，可在 GitHub Copilot 中使用 OpenAI 兼容的推理提供商。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/jkvw7r03doo05xlfzdmytznxwhdv?sp=r&sv=2024-05-04&se=2026-05-29T14%3A11%3A21Z&sr=b&rscd=inline%3B+filename%3D%22copilot+b_w.png%22%3B+filename*%3DUTF-8%27%27copilot%2520b_w.png&rsct=image%2Fpng&sig=S3f5g8IZ6mi68cT%2BJQkL3O9E2kFmffU9MVh2Q1YjPyE%3D" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/copilot-byok/README_cn.md"> VSCode BYOK </a> </td>
+        <td> Bring your own language model API key (BYOK) 是 VSCode 中 1.122 版本新增的一项功能，允许用户在 GitHub Copilot 中使用第三方语言模型提供商的 API 密钥 </td>
     </tr>
 </table>
 

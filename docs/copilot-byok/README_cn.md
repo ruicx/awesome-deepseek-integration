@@ -1,5 +1,7 @@
 # [VSCode BYOK](https://code.visualstudio.com/docs/copilot/customization/language-models#_bring-your-own-language-model-key)
 
+[English](README.md)
+
 [Bring your own language model API key (BYOK)](https://code.visualstudio.com/docs/copilot/customization/language-models#_bring-your-own-language-model-key) 是 VSCode 中新增的一项功能，允许用户在 GitHub Copilot 中使用第三方语言模型提供商的 API 密钥。通过 BYOK，用户可以将自己喜欢的语言模型集成到 Copilot 中，以获得更个性化和定制化的代码建议。
 
 ## ✨ 功能亮点

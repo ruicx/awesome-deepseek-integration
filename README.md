@@ -21,7 +21,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
     - [Applications](#applications)
     - [AI Agent frameworks](#ai-agent-frameworks)
     - [Data AI Applications frameworks](#data-ai-applications-frameworks)
-    - [RAG frameworks](#rag-frameworks-1)
+    - [RAG frameworks](#rag-frameworks)
     - [FHE (Fully Homomorphic Encryption) frameworks](#fhe-fully-homomorphic-encryption-frameworks)
     - [Solana frameworks](#solana-frameworks)
     - [Synthetic data curation](#synthetic-data-curation)

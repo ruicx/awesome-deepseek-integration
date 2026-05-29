@@ -20,7 +20,6 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
   - [Project List](#project-list)
     - [Applications](#applications)
     - [AI Agent frameworks](#ai-agent-frameworks)
-    - [RAG frameworks](#rag-frameworks)
     - [Data AI Applications frameworks](#data-ai-applications-frameworks)
     - [RAG frameworks](#rag-frameworks-1)
     - [FHE (Fully Homomorphic Encryption) frameworks](#fhe-fully-homomorphic-encryption-frameworks)
